@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomeForm.qml</file>
+        <file>Page1Form.qml</file>
+        <file>Page2Form.qml</file>
+	<file>Page3Form.qml</file>
+	<file>Page4Form.qml</file>
+        <file>qtquickcontrols2.conf</file>
+	<file>marker.png</file>
+	<file>marker_red.png</file>
+	<file>marker_green.png</file>
+	<file>marker_blue.png</file>
+    </qresource>
+</RCC>
